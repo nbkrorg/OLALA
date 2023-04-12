@@ -1,2 +1,2 @@
 # OLALA
-Booking and joining
+safe and secure
