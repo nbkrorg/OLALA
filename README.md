@@ -1,3 +1,3 @@
 OLALA
 <hr>
-booking and jioning
+booking and joining
